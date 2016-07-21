@@ -11,7 +11,7 @@
 		F58FB5CE1D40E1A7005847F4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5CA1D40E1A7005847F4 /* Default-568h@2x.png */; };
 		F58FB5D81D40E1B0005847F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D11D40E1B0005847F4 /* AppDelegate.m */; };
 		F58FB5D91D40E1B0005847F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D21D40E1B0005847F4 /* main.m */; };
-		F58FB5DB1D40E1B0005847F4 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5D51D40E1B0005847F4 /* View.xib */; };
+		F58FB5DB1D40E1B0005847F4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5D51D40E1B0005847F4 /* ViewController.xib */; };
 		F58FB5DC1D40E1B0005847F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D71D40E1B0005847F4 /* ViewController.m */; };
 		F58FB5E31D40F360005847F4 /* PrimeNumberGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5E21D40F360005847F4 /* PrimeNumberGenerator.m */; };
 /* End PBXBuildFile section */
@@ -24,7 +24,7 @@
 		F58FB5D01D40E1B0005847F4 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Internal/AppDelegate.h; sourceTree = "<group>"; };
 		F58FB5D11D40E1B0005847F4 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Internal/AppDelegate.m; sourceTree = "<group>"; };
 		F58FB5D21D40E1B0005847F4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Internal/main.m; sourceTree = "<group>"; };
-		F58FB5D51D40E1B0005847F4 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = View.xib; path = Internal/View.xib; sourceTree = "<group>"; };
+		F58FB5D51D40E1B0005847F4 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ViewController.xib; path = Internal/ViewController.xib; sourceTree = "<group>"; };
 		F58FB5D61D40E1B0005847F4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Internal/ViewController.h; sourceTree = "<group>"; };
 		F58FB5D71D40E1B0005847F4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Internal/ViewController.m; sourceTree = "<group>"; };
 		F58FB5E11D40F360005847F4 /* PrimeNumberGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrimeNumberGenerator.h; path = Common/PrimeNumberGenerator.h; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 				F58FB5D01D40E1B0005847F4 /* AppDelegate.h */,
 				F58FB5D11D40E1B0005847F4 /* AppDelegate.m */,
 				F58FB5D21D40E1B0005847F4 /* main.m */,
-				F58FB5D51D40E1B0005847F4 /* View.xib */,
+				F58FB5D51D40E1B0005847F4 /* ViewController.xib */,
 				F58FB5D61D40E1B0005847F4 /* ViewController.h */,
 				F58FB5D71D40E1B0005847F4 /* ViewController.m */,
 			);
@@ -149,7 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F58FB5DB1D40E1B0005847F4 /* View.xib in Resources */,
+				F58FB5DB1D40E1B0005847F4 /* ViewController.xib in Resources */,
 				F58FB5CC1D40E1A7005847F4 /* Assets.xcassets in Resources */,
 				F58FB5CE1D40E1A7005847F4 /* Default-568h@2x.png in Resources */,
 			);

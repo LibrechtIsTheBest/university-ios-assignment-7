@@ -3,9 +3,10 @@
 
 @interface PrimeNumberGenerator ()
 
-@property (assign) NSInteger currentNumber;
+@property NSInteger currentNumber;
 
 @end
+
 
 @implementation PrimeNumberGenerator
 
