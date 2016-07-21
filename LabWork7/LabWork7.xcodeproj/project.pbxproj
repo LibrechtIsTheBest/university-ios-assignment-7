@@ -7,28 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F58FB5991D3F7390005847F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5981D3F7390005847F4 /* main.m */; };
-		F58FB59C1D3F7390005847F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB59B1D3F7390005847F4 /* AppDelegate.m */; };
-		F58FB59F1D3F7390005847F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB59E1D3F7390005847F4 /* ViewController.m */; };
-		F58FB5A41D3F7390005847F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5A31D3F7390005847F4 /* Assets.xcassets */; };
-		F58FB5AF1D3F73A5005847F4 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5AE1D3F73A5005847F4 /* View.xib */; };
-		F58FB5B11D3F7BD4005847F4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5B01D3F7BD4005847F4 /* Default-568h@2x.png */; };
-		F58FB5B41D3F8FE6005847F4 /* PrimeNumberGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5B31D3F8FE6005847F4 /* PrimeNumberGenerator.m */; };
+		F58FB5CC1D40E1A7005847F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5C81D40E1A7005847F4 /* Assets.xcassets */; };
+		F58FB5CD1D40E1A7005847F4 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5C91D40E1A7005847F4 /* Base.lproj */; };
+		F58FB5CE1D40E1A7005847F4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5CA1D40E1A7005847F4 /* Default-568h@2x.png */; };
+		F58FB5D81D40E1B0005847F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D11D40E1B0005847F4 /* AppDelegate.m */; };
+		F58FB5D91D40E1B0005847F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D21D40E1B0005847F4 /* main.m */; };
+		F58FB5DA1D40E1B0005847F4 /* PrimeNumberGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D41D40E1B0005847F4 /* PrimeNumberGenerator.m */; };
+		F58FB5DB1D40E1B0005847F4 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = F58FB5D51D40E1B0005847F4 /* View.xib */; };
+		F58FB5DC1D40E1B0005847F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F58FB5D71D40E1B0005847F4 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F58FB5941D3F7390005847F4 /* LabWork7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LabWork7.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F58FB5981D3F7390005847F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F58FB59A1D3F7390005847F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		F58FB59B1D3F7390005847F4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		F58FB59D1D3F7390005847F4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		F58FB59E1D3F7390005847F4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		F58FB5A31D3F7390005847F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F58FB5A81D3F7390005847F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F58FB5AE1D3F73A5005847F4 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
-		F58FB5B01D3F7BD4005847F4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		F58FB5B21D3F8FE6005847F4 /* PrimeNumberGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimeNumberGenerator.h; sourceTree = "<group>"; };
-		F58FB5B31D3F8FE6005847F4 /* PrimeNumberGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimeNumberGenerator.m; sourceTree = "<group>"; };
+		F58FB5C81D40E1A7005847F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Resources/Assets.xcassets; sourceTree = "<group>"; };
+		F58FB5C91D40E1A7005847F4 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = Resources/Base.lproj; sourceTree = "<group>"; };
+		F58FB5CA1D40E1A7005847F4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Resources/Default-568h@2x.png"; sourceTree = "<group>"; };
+		F58FB5CB1D40E1A7005847F4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Resources/Info.plist; sourceTree = "<group>"; };
+		F58FB5D01D40E1B0005847F4 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Internal/AppDelegate.h; sourceTree = "<group>"; };
+		F58FB5D11D40E1B0005847F4 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Internal/AppDelegate.m; sourceTree = "<group>"; };
+		F58FB5D21D40E1B0005847F4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Internal/main.m; sourceTree = "<group>"; };
+		F58FB5D31D40E1B0005847F4 /* PrimeNumberGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrimeNumberGenerator.h; path = Internal/PrimeNumberGenerator.h; sourceTree = "<group>"; };
+		F58FB5D41D40E1B0005847F4 /* PrimeNumberGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PrimeNumberGenerator.m; path = Internal/PrimeNumberGenerator.m; sourceTree = "<group>"; };
+		F58FB5D51D40E1B0005847F4 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = View.xib; path = Internal/View.xib; sourceTree = "<group>"; };
+		F58FB5D61D40E1B0005847F4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Internal/ViewController.h; sourceTree = "<group>"; };
+		F58FB5D71D40E1B0005847F4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Internal/ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,8 +47,8 @@
 		F58FB58B1D3F738F005847F4 = {
 			isa = PBXGroup;
 			children = (
-				F58FB5B01D3F7BD4005847F4 /* Default-568h@2x.png */,
-				F58FB5961D3F7390005847F4 /* LabWork7 */,
+				F58FB5C61D40E102005847F4 /* Internal */,
+				F58FB5C71D40E12C005847F4 /* Resources */,
 				F58FB5951D3F7390005847F4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,37 +61,30 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F58FB5961D3F7390005847F4 /* LabWork7 */ = {
+		F58FB5C61D40E102005847F4 /* Internal */ = {
 			isa = PBXGroup;
 			children = (
-				F58FB5B51D3F8FEB005847F4 /* Model */,
-				F58FB59A1D3F7390005847F4 /* AppDelegate.h */,
-				F58FB59B1D3F7390005847F4 /* AppDelegate.m */,
-				F58FB59D1D3F7390005847F4 /* ViewController.h */,
-				F58FB59E1D3F7390005847F4 /* ViewController.m */,
-				F58FB5AE1D3F73A5005847F4 /* View.xib */,
-				F58FB5A31D3F7390005847F4 /* Assets.xcassets */,
-				F58FB5A81D3F7390005847F4 /* Info.plist */,
-				F58FB5971D3F7390005847F4 /* Supporting Files */,
+				F58FB5D01D40E1B0005847F4 /* AppDelegate.h */,
+				F58FB5D11D40E1B0005847F4 /* AppDelegate.m */,
+				F58FB5D21D40E1B0005847F4 /* main.m */,
+				F58FB5D51D40E1B0005847F4 /* View.xib */,
+				F58FB5D61D40E1B0005847F4 /* ViewController.h */,
+				F58FB5D71D40E1B0005847F4 /* ViewController.m */,
+				F58FB5D31D40E1B0005847F4 /* PrimeNumberGenerator.h */,
+				F58FB5D41D40E1B0005847F4 /* PrimeNumberGenerator.m */,
 			);
-			path = LabWork7;
+			name = Internal;
 			sourceTree = "<group>";
 		};
-		F58FB5971D3F7390005847F4 /* Supporting Files */ = {
+		F58FB5C71D40E12C005847F4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F58FB5981D3F7390005847F4 /* main.m */,
+				F58FB5C81D40E1A7005847F4 /* Assets.xcassets */,
+				F58FB5C91D40E1A7005847F4 /* Base.lproj */,
+				F58FB5CA1D40E1A7005847F4 /* Default-568h@2x.png */,
+				F58FB5CB1D40E1A7005847F4 /* Info.plist */,
 			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		F58FB5B51D3F8FEB005847F4 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				F58FB5B21D3F8FE6005847F4 /* PrimeNumberGenerator.h */,
-				F58FB5B31D3F8FE6005847F4 /* PrimeNumberGenerator.m */,
-			);
-			name = Model;
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,9 +144,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F58FB5AF1D3F73A5005847F4 /* View.xib in Resources */,
-				F58FB5A41D3F7390005847F4 /* Assets.xcassets in Resources */,
-				F58FB5B11D3F7BD4005847F4 /* Default-568h@2x.png in Resources */,
+				F58FB5DB1D40E1B0005847F4 /* View.xib in Resources */,
+				F58FB5CD1D40E1A7005847F4 /* Base.lproj in Resources */,
+				F58FB5CC1D40E1A7005847F4 /* Assets.xcassets in Resources */,
+				F58FB5CE1D40E1A7005847F4 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,10 +158,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F58FB59F1D3F7390005847F4 /* ViewController.m in Sources */,
-				F58FB59C1D3F7390005847F4 /* AppDelegate.m in Sources */,
-				F58FB5B41D3F8FE6005847F4 /* PrimeNumberGenerator.m in Sources */,
-				F58FB5991D3F7390005847F4 /* main.m in Sources */,
+				F58FB5DA1D40E1B0005847F4 /* PrimeNumberGenerator.m in Sources */,
+				F58FB5D91D40E1B0005847F4 /* main.m in Sources */,
+				F58FB5DC1D40E1B0005847F4 /* ViewController.m in Sources */,
+				F58FB5D81D40E1B0005847F4 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +256,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = LabWork7/Info.plist;
+				INFOPLIST_FILE = Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.librecht.LabWork7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -271,7 +267,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = LabWork7/Info.plist;
+				INFOPLIST_FILE = Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.librecht.LabWork7;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -297,6 +293,7 @@
 				F58FB5AD1D3F7390005847F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
