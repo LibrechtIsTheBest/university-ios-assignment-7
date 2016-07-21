@@ -4,7 +4,7 @@
 
 @interface ViewController ()
 
-@property (strong, nonatomic) IBOutlet UITextView *counterTextView;
+@property (nonatomic) IBOutlet UITextView *counterTextView;
 
 @end
 

@@ -3,7 +3,7 @@
 
 @interface PrimeNumberGenerator ()
 
-@property (atomic, assign) NSInteger currentNumber;
+@property (assign) NSInteger currentNumber;
 
 @end
 
